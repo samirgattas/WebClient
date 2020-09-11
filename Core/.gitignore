@@ -1,0 +1,6 @@
+Startp/*
+sysmem.*
+systema_stm32f1xx.*
+syscalls.*
+stm32f1xx_hal_msp.*
+stm32f1xxx_it.*
